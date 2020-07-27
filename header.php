@@ -8,7 +8,7 @@ error_reporting(0)
     <!--\\\\\\\ header Start \\\\\\-->
     <div class="brand">
         <!--\\\\\\\ brand Start \\\\\\-->
-        <div class="logo" style="display:block"><span class="theme_color">Mini-App</span> Table</div>
+        <div class="logo" style="display:block"><span class="theme_color">Php Mini-App</span> Administrator</div>
         <div class="small_logo" style="display:none"><img src="images/s-logo.png" width="50" height="47" alt="s-logo" /> <img src="images/r-logo.png" width="122" height="20" alt="r-logo" /></div>
     </div>
     <!--\\\\\\\ brand end \\\\\\-->
@@ -19,7 +19,7 @@ error_reporting(0)
 
         <div class="top_right_bar">
 
-            <div class="user_admin dropdown"> <a href="logout.php"><i class="fa fa-power-off"></i> Logout</a>
+            <div class="user_admin dropdown"> <a href="../logout.php"><i class="fa fa-power-off"></i> Logout</a>
 
             </div>
 
